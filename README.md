@@ -11,7 +11,7 @@
   <br/>
   <br/>
   
-  ## 🧱 Tech Stack
+  ## 🧱 Skill
   ### Language
   <!--Java-->
   <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/>
