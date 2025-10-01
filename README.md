@@ -5,7 +5,7 @@
   <!--Body-->
   
   ## 😎 My Info 😎
-  #### [:wink: Age :wink:]
+  #### [ :wink: Age :wink:]
   
   ## 👀 About Me
   #### :raising_hand: I am a Student from South Korea.<br/>
