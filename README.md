@@ -47,6 +47,15 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <br>
   <br>
+
+  <!--Git-->
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=gitt&logoColor=white&Color=white"/>
+  <!--Github-->
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white&Color=white"/>
+  <!--Notion-->
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&Color=white"/>
+  <br>
+  <br>
   
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
