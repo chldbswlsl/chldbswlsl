@@ -9,7 +9,6 @@
   #### [🏫School🏫] : Sungil-Information High School
   #### [📕Job📘] : Student
   #### [🚩Goal🚩] : WhiteHacker or AI Engineer
-  <br/>
   
   ## :100: Skill
   ### Language
