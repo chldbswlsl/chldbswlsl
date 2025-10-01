@@ -12,7 +12,6 @@
   <br>
   
   ## :100: Skill
-  ### Language
   <!--Java-->
   <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/>
   <!--Python-->
@@ -29,7 +28,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <br/>
   
-  ### Library
   <!--PyTorch-->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <!--Selenium-->
