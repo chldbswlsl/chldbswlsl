@@ -1,18 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:7FFFD4,100:4682B4&section=header&text=Welcome%20To%20My%20Git%20🤗&fontColor=ffffff&fontSize=50)
-
 <div>
-  
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-  
+  <!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:7FFFD4,100:4682B4&section=header&text=Welcome%20To%20My%20Git%20🤗&fontColor=ffffff&fontSize=50)
 </div>
 
 <div>
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
+  #### :raising_hand: I am a Student from South Korea.<br/>
+  #### :fire: I aim to become Whitehacker or AI Engineer.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
   <br/>
