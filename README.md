@@ -57,7 +57,7 @@
   <br>
   <br>
   
-  ## 🤔 Github Stats
+  ## 📊Stats📊
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldbswlsl&layout=compact&langs_count=10&card_width=400&title_color=7FFFD4&text_color=ffffff&bg_color=0d1117)](https://github.com/chldbswlsl/github-readme-stats)
     
 </div>
