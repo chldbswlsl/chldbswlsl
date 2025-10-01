@@ -1,6 +1,6 @@
 <div>
   <!-- Header -->
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:7FFFD4,100:4682B4)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:7FFFD4,100:4682B4)
 </div>
 
 <div>
