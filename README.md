@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--Rust-->
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
-  <!--Html-->
-  <img src="https://img.shields.io/badge/Html5-1572B6?style=flat-square&logo=Html5&logoColor=white"/>
+  <!--Html5-->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
