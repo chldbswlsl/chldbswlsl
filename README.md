@@ -4,6 +4,7 @@
 <div>
   <!--Body-->
   ## 😎 My Info 😎
+  ## 👀 About Me
   
   ## 👀 About Me
   #### :raising_hand: I am a Student from South Korea.<br/>
