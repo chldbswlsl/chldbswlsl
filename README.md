@@ -9,12 +9,6 @@
   #### [🏫School🏫] : Sungil-Information High School
   #### [📕Job📘] : Student
   #### [🚩Goal🚩] : WhiteHacker or AI Engineer
-  
-  ## 👀 About Me
-  #### :raising_hand: I am a Student from South Korea.<br/>
-  #### :fire: I aim to become Whitehacker or AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
-  <br/>
   <br/>
   
   ## :100: Skill
