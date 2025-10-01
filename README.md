@@ -6,6 +6,7 @@
   
   ## 😎 My Info 😎
   #### [😉Age😉] : 18
+  #### [🏫School🏫] : Sungil-Information High School
   
   ## 👀 About Me
   #### :raising_hand: I am a Student from South Korea.<br/>
