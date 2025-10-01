@@ -15,12 +15,14 @@
   
   ## 🧱 Tech Stack
   ### Language
+  <!--Java-->
+  <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/>
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--Java-->
+  <!--Rust-->
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
-  <!--HTML-->
-  <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/>
+  
+  
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
