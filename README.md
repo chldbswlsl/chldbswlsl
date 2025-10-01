@@ -17,7 +17,7 @@
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--C-->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <!--Rust-->
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
   <!--Html5-->
@@ -28,8 +28,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <br>
   <br>
+  
   <!--PyTorch-->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  
   <!--Selenium-->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   <br/>
