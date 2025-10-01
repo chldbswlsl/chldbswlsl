@@ -49,7 +49,7 @@
   <br>
 
   <!--Git-->
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=gitt&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white&Color=white"/>
   <!--Github-->
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white&Color=white"/>
   <!--Notion-->
