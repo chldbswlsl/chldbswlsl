@@ -35,9 +35,8 @@
   <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
   <!--PyTorch-->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  
-  <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+  <!--Kalilinux-->
+  <img src="https://img.shields.io/badge/kalilinux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
   <br/>
   
   ### Framework
