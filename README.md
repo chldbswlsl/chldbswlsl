@@ -29,7 +29,7 @@
   <br>
 
   <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-4479A1?style=flat-square&logo=Oracle&logoColor=white"/>
   <!--VirtualBox-->
   <img src="https://img.shields.io/badge/virtualbox-2F61B4?style=flat-square&logo=virtualbox&logoColor=white"/>
   <!--Kalilinux-->
