@@ -50,7 +50,8 @@
   
   ## 📊 Stats 📊
 
-
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chldbswlsl&show_icons=true&theme=dracula) <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldbswlsl&layout=compact&theme=graywhite)
   
     
 </div>
