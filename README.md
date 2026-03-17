@@ -6,7 +6,7 @@
   
   ## 😎 My Info 😎
   #### [✅Name✅] : ROH HEE RAE
-  #### [😉Age😉] : 18
+  #### [😉Age😉] : 19
   #### [🏫School🏫] : Sungil-Information High School
   #### [📕Job📘] : Student
   #### [🚩Goal🚩] : WhiteHacker or AI Engineer
